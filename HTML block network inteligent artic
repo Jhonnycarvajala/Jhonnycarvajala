@@ -12,10 +12,26 @@
 	<div class="container">
 		<div class="row">
 			<div class="jumbotron">
+			  <div class="container_text"
 				<h1>La naturaleza humana</h1>	
 				<input type="text" placeholder="Diálogo de entrada" id="text" class="col-lg-12" style="display: block;height: 50px;font-size: 20px;margin: 30px 0" />
 				<input type="button" value="enviar" id="btn" class="btn btn-danger" />
 			</div>
+
+     </head> 
+     <body> 
+        <div class="Replays">
+        <div class="active">
+        <Div class="desactive"
+
+#Ejecutararchivoexcel
+#funcion_"numerador"
+
+<Script>
+#copiararchivo
+
+
+
 #panelcentral
 
 		</div>
